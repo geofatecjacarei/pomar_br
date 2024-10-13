@@ -378,7 +378,7 @@ td video {
 .layer-switcher {
     position: absolute;
     float: right;
-    top: 8px;
+    top: 68px;
     right: 0;
     bottom: unset!important;
     margin-top: 8px;
